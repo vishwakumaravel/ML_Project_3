@@ -1,4 +1,4 @@
-# CS 4375 Project 3: Deep Learning for MNIST and CIFAR-10
+# Deep Learning for MNIST and CIFAR-10
 
 This project implements and evaluates Multilayer Perceptrons (MLPs) and Convolutional Neural Networks (CNNs) on the MNIST and CIFAR-10 datasets using PyTorch.
 
