@@ -9,8 +9,6 @@ This project implements and evaluates Multilayer Perceptrons (MLPs) and Convolut
 - `all_final_results.csv` — combined final results
 - tuning CSV files — saved hyperparameter tuning results
 
-## Requirements
-Install the required libraries:
 
 ## How to Run
 
@@ -19,6 +17,9 @@ Install the required libraries:
 3. Go to Runtime > Change runtime type
 4. Set Hardware accelerator to GPU
 5. Run all cells from top to bottom in order
+
+## Requirements
+Install the required libraries:
 
 ```bash
 pip install torch torchvision numpy pandas
